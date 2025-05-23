@@ -39,6 +39,6 @@ just copy paste a table and you will get a neat table
 
 * [x] task 1  <completed task>
 * [x] task 2  <completed task>
-* [] task 3   <incomplete task>
+* [ ] task 3   <incomplete task>
 
 
